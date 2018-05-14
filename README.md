@@ -1,2 +1,2 @@
 # Mathematical-Medicine
-This is a place to do computational stuff in medical sciences
+Applications of the computational methods in find out mathematical models. 
